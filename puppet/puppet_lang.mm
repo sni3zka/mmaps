@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1389621460341" ID="ID_1591690010" MODIFIED="1389784308553" TEXT="puppet">
+<node CREATED="1389621460341" ID="ID_1591690010" MODIFIED="1389806137273" TEXT="puppet">
 <node CREATED="1389784222796" ID="ID_738179029" MODIFIED="1389784229221" POSITION="right" TEXT="langauge">
 <node CREATED="1389784229222" ID="ID_670145553" MODIFIED="1389784236598" TEXT="functions">
 <node CREATED="1389784236600" ID="ID_495819911" MODIFIED="1389784280013" TEXT="returning values"/>
@@ -57,6 +57,13 @@
 <node CREATED="1389786725388" ID="ID_536020468" MODIFIED="1389786726994" TEXT="scope.lookupvar(&apos;apache::user&apos;)"/>
 </node>
 </node>
+</node>
+<node CREATED="1389806138612" ID="ID_1703258501" MODIFIED="1389806143775" POSITION="left" TEXT="include into node">
+<node CREATED="1389806143778" ID="ID_459879567" MODIFIED="1389806145499" TEXT="classs"/>
+<node CREATED="1389806145924" ID="ID_1752785862" MODIFIED="1389806147560" TEXT="module">
+<node CREATED="1389806171740" ID="ID_1574759920" MODIFIED="1389806214122" TEXT="portable collection of resources (classes,confs,defnitions)"/>
+</node>
+<node CREATED="1389806148020" ID="ID_81854500" MODIFIED="1389806168283" TEXT="individual resourse"/>
 </node>
 </node>
 </map>
